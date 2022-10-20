@@ -1,2 +1,6 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# advanced-backend
+
+* Redis
+* Automated Headless Browser Testing
+* Continuous Integration
+* Scalable Image/File Upload
