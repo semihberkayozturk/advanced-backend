@@ -1,6 +1,6 @@
-# advanced-backend
+# Advanced Node.js Concepts
 
-* Redis
+* Data Caching With Redis
 * Automated Headless Browser Testing
 * Continuous Integration
 * Scalable Image/File Upload
